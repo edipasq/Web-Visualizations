@@ -1,5 +1,5 @@
 console.log('hi');
-const url = "https://edipasq.github.io/test/samp.json";
+const url = "https://edipasq.github.io/Web-Visualizations/samples.json";
 //url = "http://localhost:8000/samp.json";
 
 var jsondata = {};
